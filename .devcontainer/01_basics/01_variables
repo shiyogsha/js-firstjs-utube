@@ -1,0 +1,5 @@
+const accId = 132467
+let accpas = 'ajdiuuhu'
+accpas = "ewugwyue"
+console.log(accpas);
+console.log(accId);
