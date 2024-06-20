@@ -2,7 +2,7 @@
 // alert(3+3) // we are busing nodejs,not browser
 
 console.log(3
-    +5) //code redabilirty must high //
+    +7)//code redabilirty must high //
 console.log("shivam")
 
 let name = "shivam" //string//
@@ -21,3 +21,4 @@ let isLoggedIn = false
 
 console.log(typeof undefined)
 console.log(typeof null)
+

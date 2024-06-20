@@ -1,2 +1,0 @@
-const accountId = 1332423
-console.log(accountId);
